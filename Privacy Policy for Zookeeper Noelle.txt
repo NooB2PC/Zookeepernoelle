@@ -1,0 +1,66 @@
+Privacy Policy for Zookeeper Noelle
+Last Updated: June 20, 2026
+
+1. Introduction
+The Zookeeper Noelle bot team ("we," "us," or "our") respects your privacy and is committed to protecting the data of our users. This Privacy Policy explains what information Zookeeper Noelle ("the Bot") collects, how it is used, how it is stored, and your rights regarding that data when you use the Bot within Discord.
+
+By adding or interacting with Zookeeper Noelle, you consent to the data collection and usage practices described in this policy.
+
+2. What Data We Collect
+To function properly and provide its services, Zookeeper Noelle collects and stores specific data from Discord. We only collect data that is strictly necessary for the Bot's operation.
+
+Data collected automatically may include:
+
+Discord IDs: We collect User IDs, Server (Guild) IDs, Channel IDs, and Role IDs to process commands, manage configurations, and execute server-specific features.
+
+Command Usage: We track which commands are used, when they are used, and by whom, for the purpose of debugging, performance monitoring, and analytics.
+
+Server Configurations: Any settings or preferences set by server administrators using the Bot (e.g., prefix settings, moderation logs, toggleable features).
+
+What we DO NOT collect:
+
+Zookeeper Noelle does not log or store general user message content outside of explicit Bot commands.
+
+We do not collect passwords, email addresses, or personal off-platform information.
+
+Note on Message Content: If your bot utilizes Discord's Message Content Intent to read regular messages for features like auto-moderation or trigger words, you must disclose that here. If not, the statement above is sufficient.
+
+3. How We Use Your Data
+The data we collect is used exclusively for the following purposes:
+
+Functionality: To execute commands, manage server-specific configurations, and deliver the Bot's core features.
+
+Maintenance & Troubleshooting: To identify bugs, monitor performance, and improve the overall stability of the Bot.
+
+Abuse Prevention: To maintain blacklists of users or servers that violate our Terms of Service or Discord's Terms of Service.
+
+4. Data Storage and Security
+We take reasonable precautions to protect the data we collect.
+
+All collected data is stored securely in our databases with restricted access.
+
+Only authorized members of the Zookeeper Noelle bot team have access to the database for development, maintenance, and support purposes.
+
+While we strive to use commercially acceptable means to protect your data, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+5. Third-Party Sharing
+We value your privacy and do not sell, rent, or trade your data to any third parties.
+
+Data is only shared:
+
+With Discord, as inherently required to operate on their platform (via the Discord API).
+
+If required by law, such as to comply with a subpoena or similar legal process.
+
+6. Data Retention and Deletion (Your Rights)
+You have the right to request the deletion of your data.
+
+Server Data: If Zookeeper Noelle is kicked or removed from a Discord server, the server's configuration data and associated logs will be [Insert policy: e.g., deleted immediately / kept for 30 days then deleted / kept until requested].
+
+User Data: If you wish to have your specific User ID and associated command history purged from our database, you can do so by [Insert method: e.g., using the /deletedata command / contacting us in the support server].
+
+7. Children's Privacy
+Zookeeper Noelle operates within the Discord ecosystem and abides by Discord's Terms of Service, which requires users to be at least 13 years old (or older, depending on local laws). We do not knowingly collect personal information from individuals under the minimum age requirement.
+
+8. Changes to this Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices, new Bot features, or legal requirements. We will notify users of significant changes via our support server or through Bot announcements. Continued use of Zookeeper Noelle after changes are posted constitutes your acceptance of the updated policy.
