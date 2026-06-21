@@ -1,0 +1,55 @@
+Terms of Service for Zookeeper Noelle
+Last Updated: June 20, 2026
+
+1. Acceptance of Terms
+By adding Zookeeper Noelle ("the Bot") to your Discord server, or by interacting with the Bot, you agree to these Terms of Service. If you do not agree with any of these terms, you must immediately remove the Bot from your server and cease all interaction with it.
+
+These terms are a binding agreement between you and the Zookeeper Noelle bot team ("we," "us," or "our").
+
+2. Description of Service
+Zookeeper Noelle is a Discord bot designed to provide [briefly describe bot features, e.g., server moderation, entertainment, utility commands, etc.] to Discord servers. The Bot is provided "as is" and "as available," and we reserve the right to modify, suspend, or discontinue any feature of the Bot at any time without prior notice.
+
+3. User Responsibilities & Acceptable Use
+When using Zookeeper Noelle, you agree not to:
+
+Use the Bot to violate the Discord Terms of Service or Community Guidelines.
+
+Spam, exploit, or purposefully attempt to crash or lag the Bot through malicious commands or actions.
+
+Use the Bot to facilitate illegal activities, harassment, hate speech, or the distribution of explicit content.
+
+Attempt to reverse-engineer, decompile, or hack the Bot or its associated infrastructure.
+
+The server owner is ultimately responsible for how the Bot is utilized within their specific Discord server.
+
+4. Privacy and Data Collection
+Zookeeper Noelle collects and stores specific data required for the Bot to function properly (such as User IDs, Server IDs, Channel IDs, and command usage data).
+
+Note: For a complete breakdown of what data is collected, how it is stored, and how it is used, please refer to our official Privacy Policy [Insert Link to Privacy Policy].
+
+5. Intellectual Property
+All code, logos, assets, and branding associated with Zookeeper Noelle are the intellectual property of the Zookeeper Noelle bot team (unless otherwise stated or utilizing third-party open-source licenses). You may not copy, distribute, or claim ownership of the Bot's assets or code.
+
+6. Availability and Uptime
+While the Zookeeper Noelle bot team strives to maintain consistent uptime, we do not guarantee uninterrupted access to the Bot. The Bot may experience downtime due to maintenance, updates, or unforeseen technical issues (such as Discord API outages). We are not liable for any disruption of server activities caused by the Bot's downtime.
+
+7. Termination of Service
+We reserve the right to restrict, suspend, or permanently ban any user or server from accessing Zookeeper Noelle at our sole discretion. Common reasons for blacklisting include, but are not limited to:
+
+Violation of these Terms of Service.
+
+Violation of Discord's Terms of Service.
+
+Abuse of the Bot's systems or support staff.
+
+8. Limitation of Liability
+To the maximum extent permitted by law, the Zookeeper Noelle bot team shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the Bot. This includes, but is not limited to:
+
+Accidental deletion of channels, roles, or messages due to user error or misconfigured Bot permissions.
+
+Actions taken by server administrators using the Bot's features.
+
+Data loss or server disruption.
+
+9. Changes to the Terms of Service
+We reserve the right to update or modify these Terms of Service at any time. Changes will be announced in our official support server or through the Bot's notification systems. Continued use of Zookeeper Noelle after any changes are published constitutes your acceptance of the new Terms.
